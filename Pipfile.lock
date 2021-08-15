@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "64847b4757181821621556bd5494ea103ff8e09bec878792d70ac4f463d5862d"
+            "sha256": "2a7752f9ff9c018264147e0aecb88498b02c86da0e9bd2fd5da39476973d313d"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -90,6 +90,14 @@
             ],
             "index": "pypi",
             "version": "==1.7.3"
+        },
+        "dislash.py": {
+            "hashes": [
+                "sha256:5b072718ef5cab7ab20681edd691ecf5d20f31c665eb6e53ca22ff369d81f2bc",
+                "sha256:990ff1338570ad9dcd1522fa5cd27466ba6a2dab38e0690e5f588da75b49f085"
+            ],
+            "index": "pypi",
+            "version": "==1.4.5"
         },
         "idna": {
             "hashes": [
